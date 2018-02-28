@@ -1,0 +1,13 @@
+.products {
+  padding: 40px 0;
+}
+.card {
+  margin-bottom: 30px;
+  transition: all .5s ease;
+}
+.card:hover {
+  box-shadow: 0 0 10px rgba(0,0,0,.2);
+}
+.modal__wrap-img {
+  text-align: center;
+}
